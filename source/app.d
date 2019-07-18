@@ -20,6 +20,9 @@ void main() {
 	while(running) {
 		while(win.poll(&evt)) {
 			switch(evt.type) {
+				case Event.Type.MouseButtonDown:
+					snd.play();
+					break;
 				case Event.Type.Quit:
 					running = false;
 					break;
