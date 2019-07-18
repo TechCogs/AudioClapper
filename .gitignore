@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/audioclapper
+audioclapper.so
+audioclapper.dylib
+audioclapper.dll
+audioclapper.a
+audioclapper.lib
+audioclapper-test-*
+*.exe
+*.o
+*.obj
+*.lst

@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"techcogs"
+	],
+	"copyright": "Copyright © 2019, techcogs",
+	"dependencies": {
+		"dgame": "~>0.6.6"
+	},
+	"description": "A simple program that creates a click to synchronize audio and video recordings.",
+	"license": "GPLv2",
+	"name": "audioclapper"
+}
